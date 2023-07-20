@@ -1,0 +1,30 @@
+body { 
+    
+    background-color:#edf7f0;
+   
+}
+table{ 
+    
+    width: 100%;
+    border: 1px solid white;
+    font-size: 40px;
+    
+}
+button {
+    width: 70%;
+    font-size: 40px;
+    margin:10%;
+    color:green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+td, th {
+    color: #fff;
+    text-align: center;
+}
+img {
+    margin-left: 350px; width: 600px; height: 400px;
+}
+h1{
+    text-align: center;
+}
